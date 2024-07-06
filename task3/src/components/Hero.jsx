@@ -7,7 +7,7 @@ export default function Hero() {
   <img src={profilePath} className="card-img" alt="..." />
   <div className='heroDescription' style={{textAlign:"center"}}>
     <h3>Hii I'm</h3>
-    <h1>Priyanshu Kumar</h1>
+    <h1>khushi</h1>
     <h3>Web team member at Soceity of computer science and engineering</h3>
 <br/>
 

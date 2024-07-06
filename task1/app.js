@@ -3,7 +3,7 @@ const app=express();
 app.use(express.urlencoded({extended:true}))
 
 app.set("view engine","ejs")
-const port=5000;
+const port=000;
 
 
 app.get("/",(req,res)=>{
